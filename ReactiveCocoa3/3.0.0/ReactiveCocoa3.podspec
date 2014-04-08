@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "ReactiveCocoa"
+  s.name         = "ReactiveCocoa3"
   s.version      = "3.0.0"
   s.summary      = "A framework for composing and transforming streams of values."
   s.homepage     = "https://github.com/blog/1107-reactivecocoa-is-now-open-source"
