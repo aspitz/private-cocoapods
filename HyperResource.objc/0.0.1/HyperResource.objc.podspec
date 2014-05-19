@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   s.source_files  = "HyperResource.objc/*.{m,h}"
   # s.public_header_files = "Classes/**/*.h"
 
-  s.exclude_files = "ZAppDelegate.{m,h}", "ZViewController.{m,h}", "main.m" 
+  s.exclude_files = "{ZAppDelegate,ZViewController,main}.{m,h}" 
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
